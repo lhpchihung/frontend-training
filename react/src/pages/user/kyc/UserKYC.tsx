@@ -3,7 +3,7 @@ import Breadcrumb from '../../../components/ui/Breadcrumb/Breadcrumb';
 import AssetSession from './components/AssetSection';
 import InvestmentSection from './components/InvestmentSection';
 import LiabilitySection from './components/LiabilitySection';
-import NetWorthSection from './components/NetWorthSection';
+import NetWorthSection from './components/NetworthSection';
 import WealthSection from './components/WealthSection';
 import { User } from '../personal-information/model';
 import IncomeSession from './components/IncomeSession';

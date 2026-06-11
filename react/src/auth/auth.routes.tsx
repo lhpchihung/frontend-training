@@ -3,7 +3,7 @@ import Login from './Login/Login';
 import ResetPassword from './ResetPassword/ResetPassword';
 import Auth from './Auth';
 import SignUp from './SignUp/SignUp';
-import Logout from './Logout/Logout';
+import Logout from './Logout/logout';
 
 const authRoutes: RouteObject[] = [
     {
